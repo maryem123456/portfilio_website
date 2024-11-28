@@ -1,0 +1,93 @@
+body{
+    margin:0px;
+    background-color:#0a1f0b29;
+}
+
+
+.bar{
+    display: flex;
+    flex-direction: row;
+    margin-left:850px;
+    gap: 25px;
+}
+#logo{
+    margin-left: 50px;
+    font-size: 20px;
+    color: #03A9F4;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding-top: 15px;
+}
+.bar p{
+    color:gray;
+    font-size: 20px;
+}
+.bar p:hover{
+    color: red;
+    text-decoration: underline;
+}
+div#shadow{
+    margin-top: 100px;
+    width: 70%;
+    margin-top: 0px;
+    margin-left:200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 80px;
+}
+#shadow p{
+    margin-right: 0px;
+    margin-left: 50px;
+}
+.experience {
+    width: 30%;
+    background-color: #80808024;
+    padding-right: 20px;
+    border-radius: 15px;
+    padding-top:15px;
+}
+.dat{
+    color:blue;
+    font-size: 28px;
+}
+.what{
+    color:blue;
+    font-size: 35px;
+    margin-left:200px;
+}
+.what1{
+    color:rgb(244, 16, 233);
+    font-size: 35px;
+    margin-left:200px;
+}
+.dat1{
+    color:rgb(244, 16, 233);
+    font-size: 28px;
+}
+#shadow2{
+    width: 70%;
+    margin-left:200px;
+}
+p.professionel {
+    color: red;
+    font-size: 28px;
+    margin-left: 30px;
+}
+p.hello {
+    width: 30%;
+    background-color: #8080801c;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.finalo {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-left: 35px;
+}

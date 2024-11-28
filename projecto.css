@@ -1,0 +1,66 @@
+body{
+    margin:0px;
+}
+.bar{
+    display: flex;
+    flex-direction: row;
+    margin-left:850px;
+    gap: 25px;
+}
+#logo{
+    margin-left: 50px;
+    font-size: 20px;
+    color: #03A9F4;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding-top: 15px;
+}
+
+.project {
+    background-color: #80808029;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.project p{
+    text-align: center;
+    color :violet;
+    font-size: 38px;
+}
+button.btn.btn-primary {
+    width: 400px;
+    margin-left: 550px;
+}
+section{
+    background-color:#80808029 ;
+    padding-bottom: 30px;
+}
+section p{
+    color:violet;
+    font-size: 38px;
+    padding-left:500px;
+}
+    /*
+section{
+    background-color: #8a2be270;
+    padding-bottom: 15px;
+}
+section p {
+    color:black;
+}
+button {
+    margin-left: 550px;
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    border: 0px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}*/
